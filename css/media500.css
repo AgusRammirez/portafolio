@@ -1,0 +1,10 @@
+header .contenedor-texto .texto .nombre {
+    font-size: 35px;
+}
+header .contenedor-texto .texto .profesion {
+    font-size: 18px;
+}
+footer .redes-sociales .contenedor {
+    flex-wrap: wrap;
+    padding: 20px 0;
+}
