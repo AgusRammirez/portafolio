@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: "Merriweather", serif;
+  font-family: 'Inconsolata', monospace;
   background-color: white;
   font-size: 16px;
 }
@@ -75,7 +75,7 @@ header .contenedor-texto .texto .profesion {
 .main .acerca-de .foto img {
   vertical-align: top;
   border-radius: 50%;
-  border: 5px solid rgba(255, 255, 255, 0.2);
+  border: 3px solid rgba(0, 0, 0, 0.2);
 }
 .main .acerca-de .texto {
   color: rgb(58, 45, 71);
