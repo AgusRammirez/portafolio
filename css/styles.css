@@ -240,15 +240,12 @@ footer .redes-sociales a {
   font-size: 30px;
   margin: 0 20px;
 }
-footer .redes-sociales .correo:hover {
-  background-color: rgb(176, 41, 41);
-}
 footer .redes-sociales .github:hover {
   background-color: rgb(104, 103, 103);
 }
-footer .redes-sociales .linkedin:hover {
-  background-color: rgb(32, 85, 153);
-}
 footer .redes-sociales .instagram:hover {
-  background-color: rgb(165, 69, 167);
+  background-color: rgb(120, 63, 121);
+}
+footer .redes-sociales .whatsapp:hover {
+  background-color: rgb(73, 186, 73);
 }
